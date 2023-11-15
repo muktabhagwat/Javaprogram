@@ -2,7 +2,7 @@ package basicjava;
 //condition statement
 //Write a Program to accept a no from the user and find out the square if no is positive  & less than 20
 import java.util.Scanner;
-public class SqaureofNum 
+public class Ifcondition 
 {
 
 		public static void main(String[] args) 
