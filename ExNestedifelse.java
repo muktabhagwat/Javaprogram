@@ -2,7 +2,7 @@ package basicjava;
 
 import java.util.Scanner;
 
-public class Example1Nestedifelse {
+public class ExNestedifelse {
 
 	public static void main(String[] args) 
 	{
