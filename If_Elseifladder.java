@@ -1,19 +1,18 @@
 package basicjava;
-//WAP to find out profit and loss
+//Write a Program to find out profit and loss
 import java.util.Scanner;
-
-public class Cal_sell
+public class If_Elseifladder
 {
 	public static void main(String[] args) 
 	{
-				int cp,sp,result;
+				int costprice,sellprice,result;
 				Scanner sc=new Scanner(System.in);
 				System.out.println("Enter selling price");
-				sp=sc.nextInt();
+				sellprice=sc.nextInt();
 				System.out.println("Enter Cost Price");
-				cp=sc.nextInt();
+				costprice=sc.nextInt();
 				
-				result=sp-cp;
+				result=sellprice-costprice;
 				if(result==0)
 				{
 					System.out.println("Neither profit Nor loss");
