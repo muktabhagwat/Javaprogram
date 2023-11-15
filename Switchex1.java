@@ -2,7 +2,7 @@ package basicjava;
 
 import java.util.Scanner;
 
-public class ATM {
+public class Switchex1 {
 
 	public static void main(String[] args) 
 	{
